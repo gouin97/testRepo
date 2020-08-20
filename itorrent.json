@@ -6,12 +6,12 @@
             "bundleIdentifier": "ru.xitrix.iTorrent",
             "name": "iTorrent",
             "developerName": "Vinogradov Daniil",
-            "iconURL":"https://github.com/XITRIX/iTorrent/raw/master/iTorrent/Assets.xcassets/AppIcon.appiconset/ItunesArtwork%402x.png",
-            "tintColor": "000000",
+            "iconURL": "https://github.com/XITRIX/iTorrent/raw/master/iTorrent/Assets.xcassets/AppIcon.appiconset/ItunesArtwork%402x.png",
+            "tintColor": "ff0000",
             "subtitle": "Torrent client for iOS",
             "localizedDescription": "",
             "screenshotURLs": [
-                ""
+                "https://user-images.githubusercontent.com/9553519/41823916-2ce90e6e-7810-11e8-8abd-b019f6930dde.jpeg"
             ],
             "version": "1.8.1",
             "versionDate": "2020-07-29T06:36:00+00:00",
