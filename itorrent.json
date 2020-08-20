@@ -1,0 +1,24 @@
+{
+    "name": "iTorrent",
+    "identifier": "ru.xitrix.iTorrent",
+    "apps": [
+        {
+            "bundleIdentifier": "ru.xitrix.iTorrent",
+            "name": "iSH",
+            "developerName": "Vinogradov Daniil",
+            "iconURL": "https://github.com/XITRIX/iTorrent/blob/master/iTorrent/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76%402x.png",
+            "tintColor": "000000",
+            "subtitle": "Torrent client for iOS",
+            "localizedDescription": "",
+            "screenshotURLs": [
+                "https://ish.app/assets/front-iphone-full.png"
+            ],
+            "version": "1.8.1",
+            "versionDate": "2020-07-29T06:36:00+00:00",
+            "versionDescription": "Update",
+            "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v1.8.1/iTorrent.ipa",
+            "size": 4042620
+        }
+    ],
+    "userInfo": {}
+}
