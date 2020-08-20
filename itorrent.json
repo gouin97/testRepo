@@ -6,7 +6,7 @@
             "bundleIdentifier": "ru.xitrix.iTorrent",
             "name": "iTorrent",
             "developerName": "Vinogradov Daniil",
-            "iconURL": "https://github.com/XITRIX/iTorrent/raw/master/iTorrent/Assets.xcassets/AppIcon.appiconset/ItunesArtwork%402x.png",
+            "iconURL":"https://github.com/XITRIX/iTorrent/raw/master/iTorrent/Assets.xcassets/AppIcon.appiconset/ItunesArtwork%402x.png",
             "tintColor": "000000",
             "subtitle": "Torrent client for iOS",
             "localizedDescription": "",
